@@ -10,11 +10,7 @@ public class AeSwap {
 	    int first = reader.nextInt();
 	    int second = reader.nextInt();
 	    
-        System.out.println("--Before swap--");
-        System.out.println("First number = " + first);
-        System.out.println("Second number = " + second);
-
-        // Value of first is assigned to temporary
+        System.out.println("--Before swap--");        // Value of first is assigned to temporary
         int temporary = first;
 
         // Value of second is assigned to first
